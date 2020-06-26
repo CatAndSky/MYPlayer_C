@@ -1,0 +1,72 @@
+﻿  RCC resource/MYPlayer.qrc
+  MYAudioPlay.cpp
+E:\zt\learn\imooc\quickzhao_Codes-master\quickzhao_codes\Muying\project\MYPlayer\MYPlayer\src\MYPlayer\MYAudioPlay.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\zt\learn\imooc\quickzhao_Codes-master\quickzhao_codes\Muying\project\MYPlayer\MYPlayer\src\MYPlayer\MYAudioPlay.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  MYAudioThread.cpp
+E:\zt\learn\imooc\quickzhao_Codes-master\quickzhao_codes\Muying\project\MYPlayer\MYPlayer\src\MYPlayer\MYAudioThread.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\zt\learn\imooc\quickzhao_Codes-master\quickzhao_codes\Muying\project\MYPlayer\MYPlayer\src\MYPlayer\MYDecode.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\zt\learn\imooc\quickzhao_Codes-master\quickzhao_codes\Muying\project\MYPlayer\MYPlayer\src\MYPlayer\MYAudioPlay.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\zt\learn\imooc\quickzhao_Codes-master\quickzhao_codes\Muying\project\MYPlayer\MYPlayer\src\MYPlayer\MYAudioThread.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\zt\learn\imooc\quickzhao_Codes-master\quickzhao_codes\Muying\project\MYPlayer\MYPlayer\src\MYPlayer\MYDecodeThread.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  MYDecode.cpp
+E:\zt\learn\imooc\quickzhao_Codes-master\quickzhao_codes\Muying\project\MYPlayer\MYPlayer\src\MYPlayer\MYDecode.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\zt\learn\imooc\quickzhao_Codes-master\quickzhao_codes\Muying\project\MYPlayer\MYPlayer\include\libavutil\rational.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\zt\learn\imooc\quickzhao_Codes-master\quickzhao_codes\Muying\project\MYPlayer\MYPlayer\src\MYPlayer\MYDecode.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  MYDecodeThread.cpp
+E:\zt\learn\imooc\quickzhao_Codes-master\quickzhao_codes\Muying\project\MYPlayer\MYPlayer\src\MYPlayer\MYDecodeThread.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\zt\learn\imooc\quickzhao_Codes-master\quickzhao_codes\Muying\project\MYPlayer\MYPlayer\src\MYPlayer\MYDecode.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\zt\learn\imooc\quickzhao_Codes-master\quickzhao_codes\Muying\project\MYPlayer\MYPlayer\src\MYPlayer\MYDecodeThread.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  MYDemux.cpp
+E:\zt\learn\imooc\quickzhao_Codes-master\quickzhao_codes\Muying\project\MYPlayer\MYPlayer\src\MYPlayer\MYDemux.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\zt\learn\imooc\quickzhao_Codes-master\quickzhao_codes\Muying\project\MYPlayer\MYPlayer\include\libavutil\rational.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\zt\learn\imooc\quickzhao_Codes-master\quickzhao_codes\Muying\project\MYPlayer\MYPlayer\src\MYPlayer\MYDemux.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\zt\learn\imooc\quickzhao_Codes-master\quickzhao_codes\Muying\project\MYPlayer\MYPlayer\src\MYPlayer\MYDemux.cpp(51,34): warning C4244: “=”: 从“int64_t”转换到“int”，可能丢失数据
+E:\zt\learn\imooc\quickzhao_Codes-master\quickzhao_codes\Muying\project\MYPlayer\MYPlayer\src\MYPlayer\MYDemux.cpp(135,50): warning C4244: “=”: 从“double”转换到“__int64”，可能丢失数据
+E:\zt\learn\imooc\quickzhao_Codes-master\quickzhao_codes\Muying\project\MYPlayer\MYPlayer\src\MYPlayer\MYDemux.cpp(224,24): warning C4244: “=”: 从“double”转换到“int64_t”，可能丢失数据
+E:\zt\learn\imooc\quickzhao_Codes-master\quickzhao_codes\Muying\project\MYPlayer\MYPlayer\src\MYPlayer\MYDemux.cpp(225,24): warning C4244: “=”: 从“double”转换到“int64_t”，可能丢失数据
+  MYDemuxThread.cpp
+E:\zt\learn\imooc\quickzhao_Codes-master\quickzhao_codes\Muying\project\MYPlayer\MYPlayer\src\MYPlayer\MYDemuxThread.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\zt\learn\imooc\quickzhao_Codes-master\quickzhao_codes\Muying\project\MYPlayer\MYPlayer\include\libavutil\rational.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\zt\learn\imooc\quickzhao_Codes-master\quickzhao_codes\Muying\project\MYPlayer\MYPlayer\src\MYPlayer\MYDemux.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\zt\learn\imooc\quickzhao_Codes-master\quickzhao_codes\Muying\project\MYPlayer\MYPlayer\src\MYPlayer\MYVideoThread.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\zt\learn\imooc\quickzhao_Codes-master\quickzhao_codes\Muying\project\MYPlayer\MYPlayer\src\MYPlayer\MYDecodeThread.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\zt\learn\imooc\quickzhao_Codes-master\quickzhao_codes\Muying\project\MYPlayer\MYPlayer\src\MYPlayer\MYAudioThread.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\zt\learn\imooc\quickzhao_Codes-master\quickzhao_codes\Muying\project\MYPlayer\MYPlayer\src\MYPlayer\MYDecode.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\zt\learn\imooc\quickzhao_Codes-master\quickzhao_codes\Muying\project\MYPlayer\MYPlayer\src\MYPlayer\MYDemuxThread.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  MYPlay.cpp
+E:\zt\learn\imooc\quickzhao_Codes-master\quickzhao_codes\Muying\project\MYPlayer\MYPlayer\src\MYPlayer\MYPlay.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\zt\learn\imooc\quickzhao_Codes-master\quickzhao_codes\Muying\project\MYPlayer\MYPlayer\src\MYPlayer\MYPlay.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\zt\learn\imooc\quickzhao_Codes-master\quickzhao_codes\Muying\project\MYPlayer\MYPlayer\src\MYPlayer\MYDemuxThread.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\zt\learn\imooc\quickzhao_Codes-master\quickzhao_codes\Muying\project\MYPlayer\MYPlayer\src\MYPlayer\MYSubTitle.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\zt\learn\imooc\quickzhao_Codes-master\quickzhao_codes\Muying\project\MYPlayer\MYPlayer\src\MYPlayer\MYPlay.cpp(85,38): warning C4100: “e”: 未引用的形参
+  MYResample.cpp
+E:\zt\learn\imooc\quickzhao_Codes-master\quickzhao_codes\Muying\project\MYPlayer\MYPlayer\src\MYPlayer\MYResample.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\zt\learn\imooc\quickzhao_Codes-master\quickzhao_codes\Muying\project\MYPlayer\MYPlayer\include\libavutil\rational.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  MYSubTitle.cpp
+E:\zt\learn\imooc\quickzhao_Codes-master\quickzhao_codes\Muying\project\MYPlayer\MYPlayer\src\MYPlayer\MYSubTitle.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\zt\learn\imooc\quickzhao_Codes-master\quickzhao_codes\Muying\project\MYPlayer\MYPlayer\src\MYPlayer\MYSubTitle.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  MYVideoOutput.cpp
+E:\zt\learn\imooc\quickzhao_Codes-master\quickzhao_codes\Muying\project\MYPlayer\MYPlayer\src\MYPlayer\MYVideoOutput.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\zt\learn\imooc\quickzhao_Codes-master\quickzhao_codes\Muying\project\MYPlayer\MYPlayer\include\libavutil\rational.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\zt\learn\imooc\quickzhao_Codes-master\quickzhao_codes\Muying\project\MYPlayer\MYPlayer\src\MYPlayer\MYVideoOutput.cpp(113,41): warning C4100: “height”: 未引用的形参
+E:\zt\learn\imooc\quickzhao_Codes-master\quickzhao_codes\Muying\project\MYPlayer\MYPlayer\src\MYPlayer\MYVideoOutput.cpp(113,30): warning C4100: “width”: 未引用的形参
+  MYVideoThread.cpp
+E:\zt\learn\imooc\quickzhao_Codes-master\quickzhao_codes\Muying\project\MYPlayer\MYPlayer\src\MYPlayer\MYVideoThread.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\zt\learn\imooc\quickzhao_Codes-master\quickzhao_codes\Muying\project\MYPlayer\MYPlayer\src\MYPlayer\MYVideoThread.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\zt\learn\imooc\quickzhao_Codes-master\quickzhao_codes\Muying\project\MYPlayer\MYPlayer\src\MYPlayer\MYDecodeThread.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\zt\learn\imooc\quickzhao_Codes-master\quickzhao_codes\Muying\project\MYPlayer\MYPlayer\src\MYPlayer\MYDecode.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\zt\learn\imooc\quickzhao_Codes-master\quickzhao_codes\Muying\project\MYPlayer\MYPlayer\src\MYPlayer\MYVideoThread.cpp(8,84): warning C4100: “height”: 未引用的形参
+E:\zt\learn\imooc\quickzhao_Codes-master\quickzhao_codes\Muying\project\MYPlayer\MYPlayer\src\MYPlayer\MYVideoThread.cpp(8,73): warning C4100: “width”: 未引用的形参
+  MainApp.cpp
+E:\zt\learn\imooc\quickzhao_Codes-master\quickzhao_codes\Muying\project\MYPlayer\MYPlayer\src\MYPlayer\MainApp.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\zt\learn\imooc\quickzhao_Codes-master\quickzhao_codes\Muying\project\MYPlayer\MYPlayer\src\MYPlayer\MYPlay.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  main.cpp
+  moc_MYPlay.cpp
+E:\zt\learn\imooc\quickzhao_Codes-master\quickzhao_codes\Muying\project\MYPlayer\MYPlayer\src\MYPlayer\MYPlay.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  moc_MYSubTitle.cpp
+E:\zt\learn\imooc\quickzhao_Codes-master\quickzhao_codes\Muying\project\MYPlayer\MYPlayer\src\MYPlayer\MYSubTitle.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  moc_MYVideoOutput.cpp
+  moc_MainApp.cpp
+  qrc_MYPlayer.cpp
+  正在生成代码...
+  MYPlayer.vcxproj -> E:\zt\learn\imooc\quickzhao_Codes-master\quickzhao_codes\Muying\project\MYPlayer\MYPlayer\src\MYPlayer\..\..\bin\debug\x64\MYPlayer.exe
